@@ -5,15 +5,14 @@ body {
     align-items: center;
     background-color: hsl(212, 45%, 89%);
     font-family: 'Outfit', sans-serif;
+    min-height:100vh
 }
 
 .qr-section {
     max-width: 300px;
     background-color: white;
-    padding: 20px;
+    padding: 1.25rem;
     border-radius: 10px;
-    text-align: center;
-    margin-block: 30px;
 }
 
 .qr-img {
@@ -21,9 +20,14 @@ body {
     border-radius: 10px;
 }
 
+.qr-title {
+    font-size: 1.5rem;
+    text-align: center;
+}
+
 .qr-text {
-    font-size: 15px;
+    font-size: 0.9375rem;
     color: hsl(220, 15%, 55%);
-    margin-bottom: 30px;
-    
+    margin-bottom: 1.875rem;
+    text-align: center
 }
