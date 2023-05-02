@@ -6,8 +6,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
